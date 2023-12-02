@@ -1,6 +1,4 @@
-# SWM-MOVIE-RECOMMENDER
-
-Course 573 (Fall 2023) - Semantic Web Mining
+# MOVIE RECOMMENDATION SYSTEM
 
 I aim to build a Movie Recommendation System using state of the art methods such as Matrix factorization and KNN for generating recommendations that are relevant and promote user retention.
 ![Screenshot 2023-12-02 at 1 10 46 PM](https://github.com/sa171/MOVIE-RECOMMENDATION-SYSTEM/assets/37447422/b348a34e-1c03-49f5-8ea8-f7bea133dc68)
